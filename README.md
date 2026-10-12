@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehmet Ali Arslan</h1>
+<h1 align="center">Hi 👋, I'm Mehmet Ali </h1>
 
 <h3 align="center">
 Computer Engineering Graduate | Software Developer | Cybersecurity Enthusiast
